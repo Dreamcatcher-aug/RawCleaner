@@ -3,7 +3,7 @@
 <!-- 修正后的下载模块：居中+背景高亮，按钮正常渲染 -->
 <div align="center">
   <div style="background-color: #f0f8fb; padding: 15px; border-radius: 8px; display: inline-block;">
-    <h3 style="margin: 0; color: #2d3748; font-size: 18px;">✅ V1.0 测试版</h3>
+    <h3 style="margin: 0; color: #2d3748; font-size: 18px;">✅ V1.0 正式版</h3>
     <br>
     <!-- 正确的徽章语法：![图片描述](徽章链接) (跳转链接) -->
     [![Download EXE](https://img.shields.io/badge/Download-EXE-green)](https://github.com/Dreamcatcher-aug/RawCleaner/releases/download/v1.0_beta/RawCleaner_boxed.exe)
