@@ -15,7 +15,8 @@
 #include <QScrollArea>
 
 QT_BEGIN_NAMESPACE
-namespace Ui {
+namespace Ui
+{
 class RawCleaner;
 }
 QT_END_NAMESPACE
@@ -29,7 +30,6 @@ public:
     ~RawCleaner();
 
 protected:
-    // 拖拽相关函数
     void dragEnterEvent(QDragEnterEvent *event) override;
     void dropEvent(QDropEvent *event) override;
 
